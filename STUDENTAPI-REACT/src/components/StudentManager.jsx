@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './style.css';
 
@@ -128,7 +128,7 @@ const StudentManager = () => {
 )}
 
 
-      <h2>Student Management</h2>
+      <h2>Student Management - 2400030643</h2>
 
       <div>
         <h3>{editMode ? 'Edit Student' : 'Add Student'}</h3>
